@@ -11,4 +11,5 @@
 - 1.PrimerEjemplo
 - 5.VariablesEnteras
 - 5.VariablesBooelanas
-- 5. VariablesCaracteres
+- 5.VariablesCaracteres
+- 7.Matematicas
